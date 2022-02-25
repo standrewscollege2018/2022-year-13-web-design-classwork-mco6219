@@ -1,0 +1,17 @@
+
+
+
+/*setting colour and removing text decoration*/
+.card-body > a{
+  text-decoration: none;
+  color: rgb(252,3,161);
+}
+
+/*adding underline when mouse hovers over links*/
+.card-body > a:hover{
+  text-decoration: underline;
+}
+
+.bg-stac {
+  background-color: RGB(0,49,85);
+}
