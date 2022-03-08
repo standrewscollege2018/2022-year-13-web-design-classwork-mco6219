@@ -29,7 +29,7 @@ St Andrews College
 </li>
 
 <li class="nav-item">
-<a class="nav-link active text-white" aria-current="page" href="index.php?page=addtutor">Delete student</a>
+<a class="nav-link active text-white" aria-current="page" href="index.php?page=deletestudent.php">Delete student</a>
 </li>
 
 

@@ -11,7 +11,7 @@
 
 <div class="mb-3">
     <label for="tutorcode" class="form-label">Tutor code (max 3 characters)</label>
-  <input type="text" name="tutorcode" class="form-control" id="tutorcode" maxlength-"3">
+  <input type="text" name="tutorcode" class="form-control" id="tutorcode" maxlength=3 minlength=3>
 </div>
 
 
